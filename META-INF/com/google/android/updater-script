@@ -1,0 +1,4 @@
+ui_print("====================================");
+ui_print(" Video HDR Enabler by Luqman");
+ui_print(" Unlock HDR playback for YouTube & Netflix");
+ui_print("====================================");

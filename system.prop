@@ -1,0 +1,12 @@
+# Force HDR support
+ro.product.display.hdr=true
+ro.vendor.display.hdr=true
+ro.surface_flinger.has_HDR_display=true
+
+# Widevine L1 spoof (beberapa app cek ini)
+ro.product.widevine=drm
+persist.sys.widevine.l1=true
+
+# Netflix HDR flags
+ro.netflix.bsp_rev=Q855-16947-1
+ro.netflix.bsp_level=60
